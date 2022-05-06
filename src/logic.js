@@ -3,7 +3,7 @@ function info() {
     const response = {
         apiversion: "1",
         author: "",
-        color: "#888888",
+        color: "#108700",
         head: "default",
         tail: "default"
     }
